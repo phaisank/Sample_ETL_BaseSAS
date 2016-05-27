@@ -1,0 +1,23 @@
+ID,CUST_ID,CUST_NAME,CUST_GROUP,CUST_SEGMENT,CUST_COUNTRY_ID
+1,R001UK,Adam Smith,Individual,Retail,UK
+2,R002UK,John Adams,Individual,Retail,UK
+3,R003UK,Adam Johnson,Individual,Retail,UK
+4,R004UK,Mark Smith,Individual,Retail,UK
+5,R005IE,Adam Smith,Individual,Retail,IE
+6,R006PL,Grzegorz Goli,Individual,Retail,PL
+1,W001UK,London Flowers,Florists,Wholesale,UK
+2,W002UK,English Superstores Ltd,Supermarkets,Wholesale,UK
+3,W003IT,Centro Tropical,Nurseries,Wholesale,IT
+4,W004NL,Amsterdam Floweries,Florists,Wholesale,NL
+5,W005ES,Palmeras Catalanas,Nurseries,Wholesale,ES
+6,W006PL,Goli Info,Supermarkets,Wholesale,PL
+7,W007GE,Deutsche Supermarkt GmBH,Supermarkets,Wholesale,GE
+8,W008US,Miami Horticulture,Nurseries,Wholesale,US
+9,W009PL,Polskie Szklarnie Sp. Z o.o.,Nurseries,Wholesale,PL
+10,W010AU,Australian Tropical Nurseries,Nurseries,Wholesale,AU
+11,W011NL,Palm Nederlanden,Nurseries,Wholesale,NL
+12,W012UK,Manchester Flowers,Florists,Wholesale,UK
+13,W013NO,Norwegian Warehouse,Supermarkets,Wholesale,NO
+14,W014FI,Hipermarket Helsinki,Supermarkets,Wholesale,FI
+15,W015GR,Rethimno Palms,Nurseries,Wholesale,GR
+16,W016PT,Palmeiras Oporto,Nurseries,Wholesale,PT

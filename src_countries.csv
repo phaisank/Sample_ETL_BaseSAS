@@ -1,0 +1,250 @@
+COUNTRY_ID,COUNTRY_TEXT,REGION_TEXT
+AD,Andorra,Southern Europe
+AE,United Arab Emirates,Overseas
+AF,Afghanistan,Overseas
+AG,Antigua and Barbuda,Overseas
+AI,Anguilla,Overseas
+AL,Albania,Central Europe
+AM,Armenia,Nordics
+AN,Netherlands Antilles,Overseas
+AO,Angola,Overseas
+AQ,Antarctica,Overseas
+AR,Argentina,Overseas
+AS,American Samoa,Overseas
+AT,Austria,Central Europe
+AU,Australia,Australia & Pacific
+AW,Aruba,Overseas
+AZ,Azerbaijan,Nordics
+BA,Bosnia and Herzegovina,Central Europe
+BB,Barbados,Overseas
+BD,Bangladesh,Overseas
+BE,Belgium,Western Europe
+BF,Burkina Faso,Overseas
+BG,Bulgaria,Central Europe
+BH,Bahrain,Overseas
+BI,Birmania,Overseas
+BJ,Benin,Overseas
+BM,Bermuda,Overseas
+BN,Brunei Darussalam,Overseas
+BO,Bolivia,Americas
+BR,Brazil,Americas
+BS,Bahamas,Overseas
+BT,Bhutan,Overseas
+BU,Burundi,Overseas
+BV,Bouvet Island,Overseas
+BW,Botswana,Overseas
+BY,Belarus,Nordics
+BZ,Belize,Overseas
+CA,Canada,Americas
+CAN,Canaries,Western Europe
+CC,Cocos (Keeling) Islands,Overseas
+CD,Democratic Republic of Congo,Overseas
+CF,Central African Republic,Overseas
+CG,Congo,Overseas
+CH,Switzerland,Central Europe
+CI,Cote D'Ivoire,Overseas
+CK,Cook Islands,Overseas
+CL,Chile,Americas
+CM,Cameroon,Overseas
+CN,China,Overseas
+CO,Colombia,Americas
+CQ,Equatorial Guinea,Americas
+CR,Costa Rica,Americas
+CRO,Croatia,Central Europe
+CS,Czechoslovakia (former),Central Europe
+CU,Cuba,Overseas
+CV,Cape Verde,Overseas
+CX,Christmas Island,Overseas
+CY,Cyprus,Overseas
+CZ,Czech Republic,Central Europe
+DE,Germany,Central Europe
+DJ,Djibouti,Overseas
+DK,Denmark,Nordics
+DM,Dominica,Overseas
+DO,Dominican Republic,Overseas
+DZ,Algeria,Overseas
+EC,Ecuador,Overseas
+EE,Estonia,Nordics
+EG,Egypt,Overseas
+EH,Western Sahara,Overseas
+ER,Eritrea,Overseas
+ES,Spain,Southern Europe
+ET,Ethiopia,Overseas
+FI,Finland,Nordics
+FJ,Fiji,Overseas
+FK,Falkland Islands (Malvinas),Americas
+FM,Micronesia,Overseas
+FO,Faroe Islands,Overseas
+FR,France,Western Europe
+GA,Gabon,Overseas
+GB,Great Britain,Western Europe
+GD,Grenada,Overseas
+GE,Georgia,Nordics
+GF,French Guiana,Americas
+GH,Ghana,Overseas
+GI,Gibraltar,Overseas
+GL,Greenland,Overseas
+GM,Gambia,Overseas
+GN,Guinea,Overseas
+GP,Guadeloupe,Overseas
+GQ,Equatorial Guinea,Overseas
+GR,Greece,Southern Europe
+GS,S. Georgia & S. Sandwich Isls.,Overseas
+GT,Guatemala,Americas
+GU,Guam,Overseas
+GW,Guinea Bissau,Overseas
+GY,Guyana,Overseas
+HK,Hong Kong,Overseas
+HM,Heard and McDonald Islands,Overseas
+HN,Honduras,Overseas
+HR,Croatia (Hrvatska),Central Europe
+HT,Haiti,Overseas
+HU,Hungary,Central Europe
+ID,Indonesia,Overseas
+IE,Ireland,Western Europe
+IL,Israel,Overseas
+IN,India,Overseas
+IO,British Indian Ocean Territory,Overseas
+IQ,Iraq,Overseas
+IR,Iran,Overseas
+IS,Iceland,Western Europe
+IT,Italy,Southern Europe
+JM,Jamaica,Overseas
+JO,Jordan,Overseas
+JP,Japan,Overseas
+KE,Kenya,Overseas
+KG,Kyrgyzstan,Nordics
+KH,Cambodia,Overseas
+KI,Kiribati,Overseas
+KM,Comoros,Overseas
+KN,Saint Kitts and Nevis,Overseas
+KP,South Korea,Overseas
+KR,North Korea,Overseas
+KW,Kuwait,Overseas
+KY,Cayman Islands,Overseas
+KZ,Kazakhstan,Nordics
+LA,Laos,Overseas
+LB,Lebanon,Overseas
+LC,Saint Lucia,Overseas
+LI,Liechtenstein,Western Europe
+LK,Sri Lanka,Overseas
+LR,Liberia,Overseas
+LS,Lesotho,Overseas
+LT,Lithuania,Nordics
+LU,Luxembourg,Western Europe
+LV,Latvia,Nordics
+LY,Libya,Overseas
+MA,Morocco,Overseas
+MC,Monaco,Western Europe
+MD,Moldova,Nordics
+MG,Madagascar,Overseas
+MH,Marshall Islands,Overseas
+MK,Macedonia,Overseas
+ML,Mali,Overseas
+MM,Myanmar,Overseas
+MN,Mongolia,Overseas
+MO,Macau,Overseas
+MP,Northern Mariana Islands,Overseas
+MQ,Martinique,Overseas
+MR,Mauritania,Overseas
+MS,Montserrat,Overseas
+MT,Malta,Overseas
+MU,Mauritius,Overseas
+MV,Maldives,Overseas
+MW,Malawi,Overseas
+MX,Mexico,Americas
+MY,Malaysia,Overseas
+MZ,Mozambique,Overseas
+NA,Namibia,Overseas
+NC,New Caledonia,Overseas
+NE,Niger,Overseas
+NF,Norfolk Island,Overseas
+NG,Nigeria,Overseas
+NI,Nicaragua,Americas
+NL,Netherlands,Western Europe
+NO,Norway,Nordics
+NP,Nepal,Overseas
+NR,Nauru,Overseas
+NT,Neutral Zone,Overseas
+NU,Niue,Overseas
+NW,Norway,Nordics
+NZ,New Zealand,Australia & Pacific
+OM,Oman,Overseas
+PA,Panama,Americas
+PE,Peru,Americas
+PF,French Polynesia,Overseas
+PG,Papua New-Guinea,Overseas
+PH,Philippines,Overseas
+PK,Pakistan,Overseas
+PL,Poland,Central Europe
+PM,St Pierre and Miquelon,Overseas
+PN,Pitcairn,Overseas
+PR,Puerto Rico,Americas
+PT,Portugal,Southern Europe
+PW,Palau,Overseas
+PY,Paraguay,Americas
+QA,Qatar,Overseas
+RE,Reunion Island,Overseas
+RO,Romania,Central Europe
+RU,Russian Federation,Nordics
+RW,Rwanda,Overseas
+SA,Saudi Arabia,Overseas
+SB,Solomon Islands,Overseas
+SC,Seychelles,Overseas
+SD,Sudan,Overseas
+SE,Sweden,Nordics
+SG,Singapore,Overseas
+SH,St Helena,Overseas
+SI,Slovenia,Central Europe
+SJ,Svalbard & Jan Mayen Islands,Overseas
+SK,Slovak Republic,Central Europe
+SL,Sierra Leone,Overseas
+SM,San Marino,Western Europe
+SN,Senegal,Overseas
+SO,Somalia,Overseas
+SR,Suriname,Overseas
+ST,Sao Tome and Principe,Overseas
+SV,El Salvador,Americas
+SY,Syrian Arab Rep.,Overseas
+SZ,Swaziland,Overseas
+TC,Turks and Caicos Islands,Overseas
+TD,Chad,Overseas
+TF,French Southern Territories,Overseas
+TG,Togo,Overseas
+TH,Thailand,Overseas
+TJ,Tajikistan,Nordics
+TK,Tokelau,Overseas
+TM,Turkmenistan,Nordics
+TN,Tunisia,Overseas
+TO,Tonga,Overseas
+TP,East Timor,Overseas
+TR,Turkey,Overseas
+TT,Trinidad Tobago,Overseas
+TV,Tuvalu,Overseas
+TW,Taiwan,Overseas
+TZ,Tanzania,Overseas
+UA,Ukraine,Nordics
+UG,Uganda,Overseas
+UK,United Kingdom,Western Europe
+UM,US Minor Outlying Islands,Overseas
+US,USA,Americas
+UY,Uruguay,Americas
+UZ,Uzbekistan,Nordics
+VA,Vatican City State (Holy See),Western Europe
+VC,Saint Vincent & the Grenadines,Overseas
+VE,Venezuela,Americas
+VG,Virgin Islands (British),Overseas
+VI,Virgin Islands (U.S.),Overseas
+VN,Vietnam,Overseas
+VU,Vanuatu,Overseas
+WF,Wallis Futuna,Overseas
+WS,Samoa,Overseas
+XM,Mayotte,Overseas
+YD,South Yemen,Overseas
+YE,North Yemen,Overseas
+YT,Mayotte,Overseas
+YU,Serbia and Montenegro,Central Europe
+ZA,South Africa,Overseas
+ZM,Zambia,Overseas
+ZR,Zaire,Overseas
+ZW,Zimbabwe,Overseas
