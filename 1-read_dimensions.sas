@@ -10,7 +10,7 @@
  * ------------------------------------------------- */
 
 * read customers definition from a csv file;
-%LET SRC=C:\Users\...\Documents\Lib\ETL-TOOLS_INFO;
+%LET SRC=C:\Lab\ETL-TOOLS_INFO;
 
 data customers;
     infile "&SRC.\src_customers.csv" delimiter = ','
