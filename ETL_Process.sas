@@ -1,7 +1,7 @@
 /* -------------------------------------------------
  * OVERVIEW
  * -------------------------------------------------
- * 1. Read Data from Raw Files
+ * 1. Read Data from Raw Files to create Dimension Table
  * Mapping:
  * src_customers.csv    >   customers
  * src_product.csv      >   products
